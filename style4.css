@@ -1,0 +1,24 @@
+body {
+    background-color: lightgreen;
+}
+h1 {
+    color: white;
+    font-size:2.9rem; 
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-style: oblique;
+    font-weight: bold;
+}
+}
+button {display: inline-block;}
+button {font-family: sans-serif;}
+button {background-color: greenyellow;}
+button {color: darkgreen;}
+button {color-adjust: lightseagreen;}
+button {border-top-right-radius: 10px;}
+button {border-bottom-left-radius: 10px;}
+button {border-bottom-right-radius: 10px;}
+button {border-top-left-radius: 10px;}
+button {width: auto;}
+button {font-weight: bolder;
+}

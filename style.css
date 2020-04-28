@@ -1,0 +1,49 @@
+/*body {
+    background-color: lightgreen;
+}*/
+h1 {
+    color: gray;
+    font-size:1.6rem; 
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-style: oblique;
+    font-weight: bold;
+}
+p {
+    color: gray;
+    font-size:1.4rem;
+    font-family: 'Times New Roman', Times, serif
+    font-style oblique; 
+}
+button {display: inline-block;}
+button {font-family: sans-serif;}
+button {background-color: greenyellow;}
+button {color: darkgreen;}
+button {color-adjust: lightseagreen;}
+button {border-top-right-radius: 10px;}
+button {border-bottom-left-radius: 10px;}
+button {border-bottom-right-radius: 10px;}
+button {border-top-left-radius: 10px;}
+button {width: auto;}
+button {font-weight: bolder;}
+
+a {
+font-size:1.4rem;
+color: blue; 
+font-family: 'Times New Roman', Times, serif;
+font-style: oblique;
+}
+href {
+    color: gray;
+}
+text {
+    font-size:1.4rem;
+    color: gray;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+img {
+    width: 300px;
+    height: 300px;
+    align-content: center;
+}
